@@ -1,11 +1,11 @@
-# 🚀 Sistema ERP Empresarial
+# 🚀 Sistema para Auditoria de Projetos
 
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Versão](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 ## 📋 Sobre o Projeto
 
-Este Sistema ERP (Enterprise Resource Planning) é uma solução completa para gestão empresarial, integrando diferentes áreas do negócio em uma única plataforma. Desenvolvido com tecnologias modernas, oferece uma interface intuitiva e recursos avançados para otimizar processos empresariais.
+Este Sistema será criado para auditar modificações feitas em um determinado projeto.
 
 ## ✨ Funcionalidades Principais
 
