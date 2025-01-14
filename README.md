@@ -1,61 +1,36 @@
-# pro-audit
+# 🚀 Sistema ERP Empresarial
 
-This template should help get you started developing with Vue 3 in Vite.
+![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
+![Versão](https://img.shields.io/badge/version-1.0.0-green.svg)
 
-## Recommended IDE Setup
+## 📋 Sobre o Projeto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Este Sistema ERP (Enterprise Resource Planning) é uma solução completa para gestão empresarial, integrando diferentes áreas do negócio em uma única plataforma. Desenvolvido com tecnologias modernas, oferece uma interface intuitiva e recursos avançados para otimizar processos empresariais.
 
-## Type Support for `.vue` Imports in TS
+## ✨ Funcionalidades Principais
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- 📦 **O que temos aqui?**
 
-## Customize configuration
+  - Criar um novo módulo ?
+  - Auditar o módulo ?
+  - Criar um novo usuário ?
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 📦 Regras de negócio?
 
-## Project Setup
+![alt text](image.png)
 
-```sh
-npm install
-```
+## 🔧 Tecnologias Utilizadas
 
-### Compile and Hot-Reload for Development
+- Frontend: Vue.js 3
+- Backend: Nest.js
+- Banco de Dados: MySQL
+- Containerização: Docker
+- ORM: Prisma
 
-```sh
-npm run dev
-```
+## 📥 Instalação
 
-### Type-Check, Compile and Minify for Production
+importante: para rodar o projeto é necessário ter também o backend rodando.
 
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Run End-to-End Tests with [Cypress](https://www.cypress.io/)
-
-```sh
-npm run test:e2e:dev
-```
-
-This runs the end-to-end tests against the Vite development server.
-It is much faster than the production build.
-
-But it's still recommended to test the production build with `test:e2e` before deploying (e.g. in CI environments):
-
-```sh
-npm run build
-npm run test:e2e
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. Clone o repositório
+2. Instale as dependências
+3. Rode o projeto
